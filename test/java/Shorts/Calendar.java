@@ -109,7 +109,7 @@ public class Calendar {
 					System.out.println("Saturday");
 					break;
 				}
-
+               System.out.println("invalid");
 			}
 
 		}
